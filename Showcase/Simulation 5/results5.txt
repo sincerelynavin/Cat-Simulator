@@ -1,0 +1,479 @@
+How many hours should we run the simulation for? How many cats to simulate? How many kittens to simulate? /nSimulating Cats/n
+cat at:[ 16 12 ]
+cat at:[ 29 3 ]
+cat at:[ 8 14 ]
+cat at:[ 19 12 ]
+cat at:[ 17 8 ]
+kitten at :[: 3 12 ]
+kitten at :[: 3 12 ]
+kitten at :[: 7 21 ]
+kitten at :[: 20 25 ]
+kitten at :[: 2 15 ]
+
+
+TIME: 1 hours
+
+
+Cat info:
+How Happy are the cats:  100 / 100
+How Tired are the cats:  0 / 100
+How Hungry are the cats:  0 / 100
+How Thirsty are the cats:  0 / 100
+
+
+Kitten info:
+How Happy are the kittens:  100 / 100
+How Tired are the kittens:  0 / 100
+How Hungry are the kittens:  0 / 100
+How Thirsty are the kittens:  0 / 100
+
+
+
+
+TIME: 2 hours
+
+
+Cat info:
+How Happy are the cats:  90 / 100
+How Tired are the cats:  5 / 100
+How Hungry are the cats:  2.5 / 100
+How Thirsty are the cats:  10 / 100
+
+
+Kitten info:
+How Happy are the kittens:  95 / 100
+How Tired are the kittens:  2.5 / 100
+How Hungry are the kittens:  5 / 100
+How Thirsty are the kittens:  5 / 100
+
+
+
+
+TIME: 3 hours
+
+
+Cat info:
+How Happy are the cats:  80 / 100
+How Tired are the cats:  10 / 100
+How Hungry are the cats:  5.0 / 100
+How Thirsty are the cats:  20 / 100
+
+
+Kitten info:
+How Happy are the kittens:  90 / 100
+How Tired are the kittens:  5.0 / 100
+How Hungry are the kittens:  10 / 100
+How Thirsty are the kittens:  10 / 100
+
+
+
+
+TIME: 4 hours
+
+
+Cat info:
+How Happy are the cats:  70 / 100
+How Tired are the cats:  15 / 100
+How Hungry are the cats:  7.5 / 100
+How Thirsty are the cats:  30 / 100
+
+
+Kitten info:
+How Happy are the kittens:  85 / 100
+How Tired are the kittens:  7.5 / 100
+How Hungry are the kittens:  15 / 100
+How Thirsty are the kittens:  15 / 100
+
+
+cats drank
+
+
+TIME: 5 hours
+
+
+Cat info:
+How Happy are the cats:  60 / 100
+How Tired are the cats:  20 / 100
+How Hungry are the cats:  10.0 / 100
+How Thirsty are the cats:  0 / 100
+
+
+Kitten info:
+How Happy are the kittens:  80 / 100
+How Tired are the kittens:  10.0 / 100
+How Hungry are the kittens:  20 / 100
+How Thirsty are the kittens:  20 / 100
+
+
+
+
+TIME: 6 hours
+
+
+Cat info:
+How Happy are the cats:  50 / 100
+How Tired are the cats:  25 / 100
+How Hungry are the cats:  12.5 / 100
+How Thirsty are the cats:  10 / 100
+
+
+Kitten info:
+How Happy are the kittens:  75 / 100
+How Tired are the kittens:  12.5 / 100
+How Hungry are the kittens:  25 / 100
+How Thirsty are the kittens:  25 / 100
+
+
+
+
+TIME: 7 hours
+
+
+Cat info:
+How Happy are the cats:  40 / 100
+How Tired are the cats:  30 / 100
+How Hungry are the cats:  15.0 / 100
+How Thirsty are the cats:  20 / 100
+
+
+Kitten info:
+How Happy are the kittens:  70 / 100
+How Tired are the kittens:  15.0 / 100
+How Hungry are the kittens:  30 / 100
+How Thirsty are the kittens:  30 / 100
+
+
+kitten drank
+
+
+TIME: 8 hours
+
+
+Cat info:
+How Happy are the cats:  30 / 100
+How Tired are the cats:  35 / 100
+How Hungry are the cats:  17.5 / 100
+How Thirsty are the cats:  30 / 100
+
+
+Kitten info:
+How Happy are the kittens:  65 / 100
+How Tired are the kittens:  17.5 / 100
+How Hungry are the kittens:  35 / 100
+How Thirsty are the kittens:  0 / 100
+
+
+
+
+TIME: 9 hours
+
+
+Cat info:
+How Happy are the cats:  20 / 100
+How Tired are the cats:  40 / 100
+How Hungry are the cats:  20.0 / 100
+How Thirsty are the cats:  40 / 100
+
+
+Kitten info:
+How Happy are the kittens:  60 / 100
+How Tired are the kittens:  20.0 / 100
+How Hungry are the kittens:  40 / 100
+How Thirsty are the kittens:  5 / 100
+
+
+cats played in box
+
+
+TIME: 10 hours
+
+
+Cat info:
+How Happy are the cats:  100 / 100
+How Tired are the cats:  45 / 100
+How Hungry are the cats:  22.5 / 100
+How Thirsty are the cats:  50 / 100
+
+
+Kitten info:
+How Happy are the kittens:  55 / 100
+How Tired are the kittens:  22.5 / 100
+How Hungry are the kittens:  45 / 100
+How Thirsty are the kittens:  10 / 100
+
+
+cats drank
+
+
+TIME: 11 hours
+
+
+Cat info:
+How Happy are the cats:  90 / 100
+How Tired are the cats:  50 / 100
+How Hungry are the cats:  25.0 / 100
+How Thirsty are the cats:  0 / 100
+
+
+Kitten info:
+How Happy are the kittens:  50 / 100
+How Tired are the kittens:  25.0 / 100
+How Hungry are the kittens:  50 / 100
+How Thirsty are the kittens:  15 / 100
+
+
+
+
+TIME: 12 hours
+
+
+Cat info:
+How Happy are the cats:  80 / 100
+How Tired are the cats:  55 / 100
+How Hungry are the cats:  27.5 / 100
+How Thirsty are the cats:  10 / 100
+
+
+Kitten info:
+How Happy are the kittens:  45 / 100
+How Tired are the kittens:  27.5 / 100
+How Hungry are the kittens:  55 / 100
+How Thirsty are the kittens:  20 / 100
+
+
+
+
+TIME: 13 hours
+
+
+Cat info:
+How Happy are the cats:  70 / 100
+How Tired are the cats:  60 / 100
+How Hungry are the cats:  30.0 / 100
+How Thirsty are the cats:  20 / 100
+
+
+Kitten info:
+How Happy are the kittens:  40 / 100
+How Tired are the kittens:  30.0 / 100
+How Hungry are the kittens:  60 / 100
+How Thirsty are the kittens:  25 / 100
+
+
+cats slept
+kitten played in box
+kitten ate
+kitten drank
+
+
+TIME: 14 hours
+
+
+Cat info:
+How Happy are the cats:  60 / 100
+How Tired are the cats:  0 / 100
+How Hungry are the cats:  32.5 / 100
+How Thirsty are the cats:  30 / 100
+
+
+Kitten info:
+How Happy are the kittens:  100 / 100
+How Tired are the kittens:  32.5 / 100
+How Hungry are the kittens:  0 / 100
+How Thirsty are the kittens:  0 / 100
+
+
+
+
+TIME: 15 hours
+
+
+Cat info:
+How Happy are the cats:  50 / 100
+How Tired are the cats:  5 / 100
+How Hungry are the cats:  35.0 / 100
+How Thirsty are the cats:  40 / 100
+
+
+Kitten info:
+How Happy are the kittens:  95 / 100
+How Tired are the kittens:  35.0 / 100
+How Hungry are the kittens:  5 / 100
+How Thirsty are the kittens:  5 / 100
+
+
+
+
+TIME: 16 hours
+
+
+Cat info:
+How Happy are the cats:  40 / 100
+How Tired are the cats:  10 / 100
+How Hungry are the cats:  37.5 / 100
+How Thirsty are the cats:  50 / 100
+
+
+Kitten info:
+How Happy are the kittens:  90 / 100
+How Tired are the kittens:  37.5 / 100
+How Hungry are the kittens:  10 / 100
+How Thirsty are the kittens:  10 / 100
+
+
+cats drank
+
+
+TIME: 17 hours
+
+
+Cat info:
+How Happy are the cats:  30 / 100
+How Tired are the cats:  15 / 100
+How Hungry are the cats:  40.0 / 100
+How Thirsty are the cats:  0 / 100
+
+
+Kitten info:
+How Happy are the kittens:  85 / 100
+How Tired are the kittens:  40.0 / 100
+How Hungry are the kittens:  15 / 100
+How Thirsty are the kittens:  15 / 100
+
+
+
+
+TIME: 18 hours
+
+
+Cat info:
+How Happy are the cats:  20 / 100
+How Tired are the cats:  20 / 100
+How Hungry are the cats:  42.5 / 100
+How Thirsty are the cats:  10 / 100
+
+
+Kitten info:
+How Happy are the kittens:  80 / 100
+How Tired are the kittens:  42.5 / 100
+How Hungry are the kittens:  20 / 100
+How Thirsty are the kittens:  20 / 100
+
+
+cats played in box
+
+
+TIME: 19 hours
+
+
+Cat info:
+How Happy are the cats:  100 / 100
+How Tired are the cats:  25 / 100
+How Hungry are the cats:  45.0 / 100
+How Thirsty are the cats:  20 / 100
+
+
+Kitten info:
+How Happy are the kittens:  75 / 100
+How Tired are the kittens:  45.0 / 100
+How Hungry are the kittens:  25 / 100
+How Thirsty are the kittens:  25 / 100
+
+
+kitten drank
+
+
+TIME: 20 hours
+
+
+Cat info:
+How Happy are the cats:  90 / 100
+How Tired are the cats:  30 / 100
+How Hungry are the cats:  47.5 / 100
+How Thirsty are the cats:  30 / 100
+
+
+Kitten info:
+How Happy are the kittens:  70 / 100
+How Tired are the kittens:  47.5 / 100
+How Hungry are the kittens:  30 / 100
+How Thirsty are the kittens:  0 / 100
+
+
+
+
+TIME: 21 hours
+
+
+Cat info:
+How Happy are the cats:  80 / 100
+How Tired are the cats:  35 / 100
+How Hungry are the cats:  50.0 / 100
+How Thirsty are the cats:  40 / 100
+
+
+Kitten info:
+How Happy are the kittens:  65 / 100
+How Tired are the kittens:  50.0 / 100
+How Hungry are the kittens:  35 / 100
+How Thirsty are the kittens:  5 / 100
+
+
+
+
+TIME: 22 hours
+
+
+Cat info:
+How Happy are the cats:  70 / 100
+How Tired are the cats:  40 / 100
+How Hungry are the cats:  52.5 / 100
+How Thirsty are the cats:  50 / 100
+
+
+Kitten info:
+How Happy are the kittens:  60 / 100
+How Tired are the kittens:  52.5 / 100
+How Hungry are the kittens:  40 / 100
+How Thirsty are the kittens:  10 / 100
+
+
+cats drank
+
+
+TIME: 23 hours
+
+
+Cat info:
+How Happy are the cats:  60 / 100
+How Tired are the cats:  45 / 100
+How Hungry are the cats:  55.0 / 100
+How Thirsty are the cats:  0 / 100
+
+
+Kitten info:
+How Happy are the kittens:  55 / 100
+How Tired are the kittens:  55.0 / 100
+How Hungry are the kittens:  45 / 100
+How Thirsty are the kittens:  15 / 100
+
+
+
+
+TIME: 24 hours
+
+
+Cat info:
+How Happy are the cats:  50 / 100
+How Tired are the cats:  50 / 100
+How Hungry are the cats:  57.5 / 100
+How Thirsty are the cats:  10 / 100
+
+
+Kitten info:
+How Happy are the kittens:  50 / 100
+How Tired are the kittens:  57.5 / 100
+How Hungry are the kittens:  50 / 100
+How Thirsty are the kittens:  20 / 100
+
+
