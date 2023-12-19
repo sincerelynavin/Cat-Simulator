@@ -1,11 +1,3 @@
-# Author : Navin Samarakoon
-# ID : 20471246
-#
-#catfinal(22).py - Simulating the behavior of cats
-#
-# Revisions: 22nd version
-#
-#`
 #Comment index:
 #0 - Dependencies
 #1 - Base setups
