@@ -14,7 +14,7 @@
 
 
 #0.1 - imports
-from cat import Cat
+from catClass import Cat
 import random
 import numpy as np
 import matplotlib.pyplot as plt
